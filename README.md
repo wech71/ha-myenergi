@@ -1,3 +1,5 @@
+Development Fork for creating pull requests only. Please use origin repo instead
+
 # Myenergi for Home Assistant
 
 [![GitHub Release][releases-shield]][releases]
